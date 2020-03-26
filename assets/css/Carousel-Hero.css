@@ -1,0 +1,113 @@
+div.jumbotron.carousel-hero {
+  color: #fff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-bottom: 0;
+}
+
+div.jumbotron.hero-nature {
+  background-image: url('../../assets/img/carasol_02.jpg');
+}
+
+div.jumbotron.hero-photography {
+  background-image: url('../../assets/img/carasol_02.jpg');
+}
+
+div.jumbotron.hero-technology {
+  background-image: url('../../assets/img/carasol_02.jpg');
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  color: #fff;
+}
+
+p.hero-subtitle {
+  max-width: 750px;
+  color: #fff;
+  /*padding-top: 0px;*/
+  font-size: 30px;
+  margin-left: 84px;
+}
+
+#car_head {
+  /*margin-left: -260px;*/
+  font-size: 50px;
+  padding-bottom: 0px;
+  max-width: 700px;
+}
+
+.row {
+  padding: 35px;
+  margin: -12px;
+}
+
+.pricingTable.purple {
+  color: #fff;
+}
+
+dl, ol, ul {
+  color: #000000;
+  /*background-color: #ffffff;*/
+}
+
+.pricingTable-sign-up {
+  background-color: #fff;
+}
+
+.btn.btn-block {
+  /*color: #ddd;*/
+  background-color: #3aa016;
+}
+
+.col-sm-4.col-md-4 {
+  max-width: 500px;
+}
+
+#price {
+  color: White;
+  height: 40px;
+  width: 983px;
+  margin: 10px;
+  padding: 6px;
+}
+
+.text-center {
+}
+
+.list-inline-item:not(:last-child) {
+}
+
+.fa-stack.fa-lg {
+  color: #252020;
+}
+
+.fa-stack.fa-lg:hover {
+  color: #9ea03d;
+}
+
+.text-left.hero-subtitle {
+  font-weight: bold;
+  margin-bottom: 156px;
+}
+
+.text-left.hero-title {
+  margin-left: 95px;
+  margin-bottom: -39px;
+}
+
+.text-left.hero-title {
+  margin-top: 59px;
+}
+
+.pricingTable-sign-up {
+  background-color: #2a2826;
+}
+
+#2 {
+  margin-left: 35px;
+}
+
